@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: edd94502c8d69f1469385d4b1e288af9
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: <root>
+    11400002: Player/Left
+    11400004: Player/Right
+    11400006: Camera/MouseMove
+    11400008: Player/Reset
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e2fdc6edf8744b38b702a2a5ee3541b2, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: 
+  wrapperClassName: 
+  wrapperCodeNamespace: 
+  generateActionEvents: 0
+  generateInterfaces: 0
+  actionGuids: []
+  actionMapGuids: []
