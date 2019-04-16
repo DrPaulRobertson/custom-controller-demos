@@ -4,6 +4,10 @@
 [Bb]uild/
 [Bb]uilds/
 
+# never ignore data
+!/[Aa]ssets/**/*.meta
+!/com.unity.inputsystem@0.2.0-preview/
+
 # Visual Studio cache directory
 .vs/
 

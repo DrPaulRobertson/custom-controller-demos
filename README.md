@@ -11,4 +11,11 @@ Arduino IDE (or similar) for programming the arduino based controllers
 [DistanceDemo](DistanceDemo), [FlexDemo](FlexDemo), [orientationeDemo](OrientationDemo), [PressureDemo](PressureDemo) contain standalone example Unity projects. One for each of the four example controllers. 
 
 # Wiring diagrams
-![Wiring diagram](readme/DistanceSketch_bb.png)
+The base controller uses an AdaFruit Itsy Bitsy 5V micro-controller. each individual controller then connects to a different sensor. The controller then transmits the sensor data via USB and mimics a standard game controller (with the exception of the orientation controller, which broadcasts the data over serial). 
+![Distance controller wiring diagram](readme/DistanceSketch_bb.png)
+![Flex sensor wiring diagram](readme/FlexSketch_bb.png)
+![Orientation sensor wiring diagram](readme/OrientationSketch_bb.png)
+![Pressure sensor wiring diagram](readme/PressureSketch_bb.png)
+
+# Licensing
+TBC
