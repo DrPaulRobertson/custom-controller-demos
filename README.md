@@ -7,7 +7,7 @@ Unity's new Input System (currently in preview)
 Arduino IDE (or similar) for programming the arduino based controllers
 
 # Files Included
-[Arduino Code](Arduino Code) contains the example code for the hardware controllers.
+[Arduino Code](ArduinoCode) contains the example code for the hardware controllers.
 [DistanceDemo](DistanceDemo), [FlexDemo](FlexDemo), [orientationeDemo](OrientationDemo), [PressureDemo](PressureDemo) contain standalone example Unity projects. One for each of the four example controllers. 
 
 # Wiring diagrams
